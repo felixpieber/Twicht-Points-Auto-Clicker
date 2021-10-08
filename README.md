@@ -1,6 +1,8 @@
 # Twitch Channel Points Auto Clicker Script
 by Felix Pieber
 
+
+
 Twitch Points is a free Auto Clicker Channel Points Tool, working on Twitch.
 
 # Install

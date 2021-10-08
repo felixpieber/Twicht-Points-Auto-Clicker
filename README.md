@@ -4,7 +4,7 @@ by Felix Pieber
 Twitch Points is a free Auto Clicker Channel Points Tool, working on Twitch.
 
 # Install
-## [Tampermonkey](http://tampermonkey.net/)
+## Tampermonkey
 To inject this JavaScript, you need [Tampermonkey](http://tampermonkey.net/).
 
 ## Twitch Channel Points Auto Clicker Script

@@ -3,7 +3,7 @@ by Felix Pieber
 
 
 
-Twitch Points is a free Auto Clicker Channel Points Tool, working on Twitch.
+Twitch Points is a free Auto Clicker Channel Points Tool, working on [Twitch.tv](https://www.twitch.tv/).
 
 # Install
 ## Tampermonkey

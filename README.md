@@ -16,5 +16,4 @@ Press this [button](https://felixpieber.github.io/web/projects/Downloads/Twitch.
 Go to your Tampermonkey dashboard, search for the script and press the little trash can on the right
 
 # How it works
-[Source Code](https://github.com/felixpieber/web/blob/main/projects/Downloads/Twitch.Points.user.js)
-[Versions/Changes](https://github.com/felixpieber/web/commits/main/projects/Downloads/Twitch.Points.user.js)
+[Source Code](https://github.com/felixpieber/web/blob/main/projects/Downloads/Twitch.Points.user.js) | [Versions/Changes](https://github.com/felixpieber/web/commits/main/projects/Downloads/Twitch.Points.user.js)

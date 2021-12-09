@@ -25,6 +25,7 @@ Yes, you can also use this script on your [iOS](https://en.wikipedia.org/wiki/IO
 
 ### Required
 >iPhone: `iOS 12.0 or higher`
+
 >iPad: `iOS 12.0 or higher`
 
 

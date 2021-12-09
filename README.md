@@ -24,7 +24,8 @@ Yes, you can also use this script on your [iOS](https://en.wikipedia.org/wiki/IO
 [Download the Snippets app](https://apps.apple.com/us/app/safari-snippets/id1126048257)
 
 ### Required
->iPhone: `iOS 12.0 or higher` | iPad: `iOS 12.0 or higher`
+>iPhone: `iOS 12.0 or higher`
+>iPad: `iOS 12.0 or higher`
 
 
 # Android

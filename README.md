@@ -23,10 +23,9 @@ Yes, you can also use this script on your [iOS](https://en.wikipedia.org/wiki/IO
 
 [Download the Snippets app](https://apps.apple.com/us/app/safari-snippets/id1126048257)
 
-|Required        |                          	 |
-|----------------|-------------------------------|-
-|iPhone			 |`iOS 12.0 or higher`           |
-|iPad         	 |`iOS 12.0 or higher`           |
+>Required
+>iPhone: `iOS 12.0 or higher`
+>iPad: `iOS 12.0 or higher`
 
 
 # Android
@@ -34,9 +33,8 @@ Yes, you can use this script on [Android](https://en.wikipedia.org/wiki/Android_
 
 [Download the official Tampermonkey app](https://play.google.com/store/apps/details?id=net.biniok.tampermonkey)
 
-|Required        |                          	 |
-|----------------|-------------------------------|-
-|RAM		 	 |`512+ MB`           			 |
+>Required
+>RAM: `512+ MB`
 
 # How it works
 [Source Code](https://github.com/felixpieber/web/blob/main/projects/Downloads/Twitch.Points.user.js) | [Versions/Changes](https://github.com/felixpieber/web/commits/main/projects/Downloads/Twitch.Points.user.js)
